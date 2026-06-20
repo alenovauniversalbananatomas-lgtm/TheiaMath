@@ -12,14 +12,14 @@ Supported operations:
 
 | Method | Description |
 | ------ | ----------- |
-| "circleArea()"| Area of a circle |
-| "circleCircumference()"| Circumference of a circle |
-| "rectangleArea()"| Area of a rectangle |
-| "rectanglePerimeter()"| Perimeter of a rectangle |
-| "triangleArea()"| Area of a triangle |
-| "cubeVolume()"| Volume of a cube |
-| "sphereVolume()"| Volume of a sphere |
-"cylinderVolume()"| Volume of a cylinder
+| `circleArea()` | Area of a circle |
+| `circleCircumference()` | Circumference of a circle |
+| `rectangleArea()` | Area of a rectangle |
+| `rectanglePerimeter()` | Perimeter of a rectangle |
+| `triangleArea()` | Area of a triangle |
+| `cubeVolume()` | Volume of a cube |
+| `sphereVolume()` | Volume of a sphere |
+| "cylinderVolume()` | Volume of a cylinder |
 
 ---
 

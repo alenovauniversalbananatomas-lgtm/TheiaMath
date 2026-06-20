@@ -19,7 +19,7 @@ Supported operations:
 | `triangleArea()` | Area of a triangle |
 | `cubeVolume()` | Volume of a cube |
 | `sphereVolume()` | Volume of a sphere |
-| "cylinderVolume()` | Volume of a cylinder |
+| `cylinderVolume()` | Volume of a cylinder |
 
 ---
 

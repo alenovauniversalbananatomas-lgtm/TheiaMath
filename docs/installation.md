@@ -53,6 +53,8 @@ Expected output:
 8
 ```
 
+---
+
 ## Global Installation 
 
 Alternatively, you can place `TheiaMath.jar` in a shared library location and add it to your Java classpath.
@@ -64,6 +66,8 @@ export CLASSPATH=$CLASSPATH:/path/to/TheiaMath.jar
 ```
 
 Once configured, TheiaMath classes can be imported and used in any Java project that references the specified classpath.
+
+---
 
 ## Version 
 

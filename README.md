@@ -1,3 +1,5 @@
+![TheiaMath Logo](assets/logo.png)
+
 # TheiaMath
 
 TheiaMath is a lightweight Java mathematical library focused on precision (20 decimal places), modular arithmetic, algebra, geometry, and advanced operations. It provides a structured API for calculations using BigDecimal and a unified precision system.

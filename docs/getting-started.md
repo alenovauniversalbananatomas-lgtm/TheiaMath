@@ -3,6 +3,7 @@
 Welcome to TheiaMath!
 
 This guide will help you write your first program using the TheiaMath library.
+
 ---
 
 ## Hello, TheiaMath
@@ -40,6 +41,7 @@ Output:
 ```text
 15
 ```
+
 ---
 
 ## Integer Operations
@@ -69,6 +71,7 @@ Output:
 3
 1
 ```
+
 ---
 
 ## Decimal Operations
@@ -92,6 +95,7 @@ Output:
 ```text 
 3.33333333333333333333
 ```
+
 ---
 
 ## Using Constants
@@ -115,6 +119,7 @@ Output:
 ```text
 3.14159265358979323846
 ```
+
 ---
 
 ## Next Steps

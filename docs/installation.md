@@ -35,6 +35,8 @@ Run the application:
 java -cp .:lib/TheiaMath.jar Main
 ```
 
+---
+
 ## Usage Example
 
 ```java

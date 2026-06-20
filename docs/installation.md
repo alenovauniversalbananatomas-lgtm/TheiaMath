@@ -34,7 +34,6 @@ Run the application:
 ```bash
 java -cp .:lib/TheiaMath.jar Main
 ```
-
 ---
 
 ## Usage Example

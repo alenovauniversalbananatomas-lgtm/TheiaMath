@@ -2,6 +2,8 @@
 
 The `Arithmetic` class provides basic mathematical operations for both decimal and integer values.
 
+---
+
 ## Overview
 
 Supported operations:
@@ -15,6 +17,8 @@ Supported operations:
 | Idiv() | Integer division |
 | mod() | Remainder |
 | Imod() | Integer remainder |
+
+---
 
 ## Addition 
 
@@ -30,6 +34,8 @@ Result:
 15
 ```
 
+---
+
 ## Subtraction 
 
 Subtracts the second value from the first.
@@ -44,6 +50,8 @@ Result:
 5
 ```
 
+----
+
 ## Multiplication 
 
 Multiplies two numbers.
@@ -57,6 +65,8 @@ Result:
 ```text
 50
 ```
+
+---
 
 ## Division
 
@@ -73,6 +83,8 @@ Result:
 ```
 
 If the divisor is zero, a `MathException` is thrown.
+
+---
 
 ## Integer Division
 
@@ -100,6 +112,8 @@ Result:
 6
 ```
 
+---
+
 ## Remainder 
 
 Returns the remainder of a division.
@@ -114,6 +128,8 @@ Result:
 1
 ```
 
+---
+
 ## Integer Remainder
 
 Returns the integer remainder of a division.
@@ -127,6 +143,8 @@ Result:
 ```text 
 1
 ```
+
+---
 
 ## Common Use Cases
 
@@ -165,6 +183,8 @@ Result:
 ```text
 1
 ```
+
+---
 
 ## Notes 
 

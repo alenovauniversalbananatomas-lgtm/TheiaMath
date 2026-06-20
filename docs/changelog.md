@@ -48,16 +48,16 @@ Added mathematical constants with 20 decimal places:
 - LN2
 - LN10
 
-Exceptions
+### Exceptions
 
 - `MathException`
 
-Internal
+### Internal
 
 - `Precision.java`
 - Centralized precision management
 
-Documentation
+### Documentation
 
 Added:
 
@@ -73,7 +73,7 @@ Added:
 
 ---
 
-Future Plans
+## Future Plans
 
 [1.1.0]
 
@@ -87,7 +87,7 @@ Planned features:
 
 ---
 
-Versioning
+## Versioning
 
 TheiaMath follows Semantic Versioning:
 

@@ -25,7 +25,7 @@ Default precision: 20 decimal places.
 
 ## License
 
-MIT License (recommended)
+MIT License
 
 ---
 

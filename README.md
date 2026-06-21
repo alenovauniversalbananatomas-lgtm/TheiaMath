@@ -1,4 +1,4 @@
-![TheiaMath Logo](assets/logo.png)
+![TheiaMath Logo](assets/assets/file_00000000b304720e9032a9e47b275474.png )
 
 # TheiaMath
 

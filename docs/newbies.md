@@ -5,7 +5,7 @@ This guide is for beginners who are new to Java and want to explore **TheiaMath*
 ---
 
 ## 1. What is TheiaMath?
-TheiaMath is a lightweight Java library for mathematics. It uses `BigDecimal` to ensure **20 decimal places of precision** and includes modules for [arithmetic](docs/arithmetic.md), [algebra](docs/algebra.md), [geometry](docs/geometry.md), and [advanced functions](docs/advanced.md).  
+TheiaMath is a lightweight Java library for mathematics. It uses `BigDecimal` to ensure **20 decimal places of precision** and includes modules for [arithmetic](arithmetic.md), [algebra](algebra.md), [geometry](geometry.md), and [advanced functions](advanced.md).  
 
 It also provides a **precision engine** and a **custom exception system** to handle errors consistently.
 

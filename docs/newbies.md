@@ -80,27 +80,27 @@ If you are new to Java and math libraries, follow this path:
 
 1. ### Start with Arithmetic
 
-- Try `Add`, `Subtract`, `Multiply`, `Divide`. 
-- Example: `Arithmetic.Divide(10, 3)` → 3.3333333333…
+   - Try `Add`, `Subtract`, `Multiply`, `Divide`. 
+   - Example: `Arithmetic.Divide(10, 3)` → 3.3333333333…
 
 2. ### Move to Algebra
 
-- Experiment with `Pow` and `Sqrt`.
-- Example: `Algebra.Pow(new BigDecimal("2"), 10)` → 1024.
+   - Experiment with `Pow` and `Sqrt`.
+   - Example: `Algebra.Pow(new BigDecimal("2"), 10)` → 1024.
 
 3. ### Explore Geometry
 
-- Calculate areas and perimeters.
-- Example: `Geometry.RectangleArea(new BigDecimal("5"), new BigDecimal("3"))` → 15.
+   - Calculate areas and perimeters.
+   - Example: `Geometry.RectangleArea(new BigDecimal("5"), new BigDecimal("3"))` → 15.
 
 4. ### Advanced Functions 
 
-- Use `Exp`, `Ln`, `Sin`, `Cos`.
-- Example: `Advanced.Ln(new BigDecimal("2.71828"))` → ~1.0.
+   - Use `Exp`, `Ln`, `Sin`, `Cos`.
+   - Example: `Advanced.Ln(new BigDecimal("2.71828"))` → ~1.0.
 
 5. ### Understand Precision
 
-- Change scale with `Precision.setScale(10)` and see how results change.
+   - Change scale with `Precision.setScale(10)` and see how results change.
 
 ---
 

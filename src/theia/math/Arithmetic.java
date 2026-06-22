@@ -30,7 +30,7 @@ public class Arithmetic {
     /**
      * Internal scale used for division operations.
      */
-    private static final int SCALE = 20;
+    private static final int SCALE = SCALE;
 
     /**
      * Adds two BigDecimal values.
